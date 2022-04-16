@@ -8706,7 +8706,9 @@ var app = (function () {
       "Celeste",
       "Cuphead",
       "Stardew Valley",
-      "Bloodborne"
+      "Bloodborne",
+      "Blasphemous",
+      "Horizon Zero Dawn"
       ]),
       On = {
         subscribe: ue(
