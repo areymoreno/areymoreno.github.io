@@ -8729,7 +8729,7 @@ var app = (function () {
               url: "https://soundcloud.com/carlos-viola/cantes-de-confesion?in=carlos-viola/sets/blasphemous",
               answer: "Blasphemous",
               song: "Cantes De Confesión"
-            }
+            }/*,
             {
               url: "https://soundcloud.com/fruitypix/zelda-botw-trailer-theme-orchestral-cover-fruitypix",
               answer: "The Legend of Zelda: Breath to the Wild",
@@ -8744,7 +8744,7 @@ var app = (function () {
               url: "https://soundcloud.com/user-224595253-38436290/god-of-war",
               answer: "God of War (2018)",
               song: "Main Theme"
-            }
+            }*/
           ],
           Pn
         ).subscribe,
