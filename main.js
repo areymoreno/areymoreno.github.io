@@ -3640,7 +3640,7 @@ var app = (function () {
         c() {
           (n = w("div")),
             (n.innerHTML =
-              '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a>, and <a href="https://anime-heardle.glitch.me/" title="Heardle">Anime Heardle</a> but for Video Game songs.</p> \n\n<p class="mb-3">The music is chosen from songs I recognise so may be easy :).</p> \n\n<p class="mb-3"> Thanks for playing!</p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>.         <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. Video Game version made by inspectredc :)'),
+              '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a>, and <a href="https://anime-heardle.glitch.me/" title="Heardle">Anime Heardle</a> but for Video Game songs.</p> \n\n<p class="mb-3">The music is chosen from songs I recognise so may be easy :).</p> \n\n<p class="mb-3"> Thanks for playing!</p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>.         <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. Video Game version made by areymoreno :)'),
             M(n, "class", "text");
         },
         m(e, t) {
@@ -4467,7 +4467,7 @@ var app = (function () {
                   ? (t += "⬛️")
                   : (t += "🟥")
                 : (t += "⬜️");
-            let o = e + "\n\n" + t + /*"\n\nhttps://inspectredc.github.io/\n"*/"\n";
+            let o = e + "\n\n" + t + /*"\n\nhttps://areymoreno.github.io/\n"*/"\n";
             if (
               !navigator.share ||
               !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
@@ -8696,6 +8696,8 @@ var app = (function () {
       "Tomb Raider",
       "Mass Effect",
       "Mass Effect 2",
+      "Mass Effect 3",
+      "Mass Effect Andromeda",
       "Bully",
       "Grand Theft Auto: V",
       "L.A. Noire",
@@ -8708,7 +8710,9 @@ var app = (function () {
       "Stardew Valley",
       "Bloodborne",
       "Blasphemous",
-      "Horizon Zero Dawn"
+      "Horizon Zero Dawn",
+      "Horizon Forbidden West",
+      "God of War (2018)"
       ]),
       On = {
         subscribe: ue(
@@ -8725,8 +8729,8 @@ var app = (function () {
               url: "https://soundcloud.com/carlos-viola/cantes-de-confesion?in=carlos-viola/sets/blasphemous",
               answer: "Blasphemous",
               song: "Cantes De Confesión"
-            },
-            {
+            }
+            /*{
               url: "https://soundcloud.com/fruitypix/zelda-botw-trailer-theme-orchestral-cover-fruitypix",
               answer: "The Legend of Zelda: Breath to the Wild",
               song: "Main Theme Orchestral"
@@ -8738,9 +8742,9 @@ var app = (function () {
             },
             {
               url: "https://soundcloud.com/user-224595253-38436290/god-of-war",
-              answer: "God of War",
+              answer: "God of War (2018)",
               song: "Main Theme"
-            }
+            }*/
           ],
           Pn
         ).subscribe,
