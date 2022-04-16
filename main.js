@@ -4435,7 +4435,7 @@ var app = (function () {
         A(),
         (e.$$set = (e) => {
           "userGuesses" in e && n(0, (r = e.userGuesses)),
-            "currentHeardle" in e && n(0, (s = e.currentHeardle)),
+            "currentHeardle" in e && n(7, (s = e.currentHeardle)),
             "config" in e && n(1, (i = e.config)),
             "hasFinished" in e && n(2, (o = e.hasFinished)),
             "gotCorrect" in e && n(8, (a = e.gotCorrect)),
@@ -8730,7 +8730,7 @@ var app = (function () {
               answer: "Blasphemous",
               song: "Cantes De Confesión"
             }
-            {
+            /*{
               url: "https://soundcloud.com/fruitypix/zelda-botw-trailer-theme-orchestral-cover-fruitypix",
               answer: "The Legend of Zelda: Breath to the Wild",
               song: "Main Theme Orchestral"
@@ -8744,7 +8744,7 @@ var app = (function () {
               url: "https://soundcloud.com/user-224595253-38436290/god-of-war",
               answer: "God of War (2018)",
               song: "Main Theme"
-            }
+            }*/
           ],
           Pn
         ).subscribe,
