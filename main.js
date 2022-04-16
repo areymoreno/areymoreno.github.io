@@ -8723,22 +8723,12 @@ var app = (function () {
                 url: "",
                 answer: "Mario Kart Wii",
                 song: "Coconut Mall"
-            },
-            {
-              url: "https://soundcloud.com/carlos-viola/cantes-de-confesion?in=carlos-viola/sets/blasphemous",
-              answer: "Blasphemous",
-              song: "Cantes De Confesión"
             },*/
-            {
-              url: "https://soundcloud.com/fruitypix/zelda-botw-trailer-theme-orchestral-cover-fruitypix",
-              answer: "The Legend of Zelda: Breath to the Wild",
-              song: "Main Theme Orchestral"
-            }/*,
             {
               url: "https://soundcloud.com/alya-al-buolayan/aloys-theme-horizon-zero-dawn-ost-by-joris-de-man-feat-julie-elven",
               answer: "Horizon Zero Dawn",
               song: "Aloy's Theme"
-            },
+            }/*
             {
               url: "https://soundcloud.com/user-224595253-38436290/god-of-war",
               answer: "God of War (2018)",
