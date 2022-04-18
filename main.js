@@ -4510,7 +4510,7 @@ var app = (function () {
         super(),
           re(this, e, fn, hn, i, {
             userGuesses: 0,
-            currentHeardle: 7,
+            currentHeardle: 2,
             config: 1,
             hasFinished: 2,
             gotCorrect: 8,
@@ -8747,23 +8747,121 @@ var app = (function () {
       On = {
         subscribe: ue(
           [
-            // soundcloud link
-            /*
-            {
-                url: "",
-                answer: "Mario Kart Wii",
-                song: "Coconut Mall"
-            },*/
-            {
-              url: "https://soundcloud.com/karaalee/halo-3-main-theme-song",
-              answer: "Halo 3",
-              song: "Main Theme"
-            }/*
-            {
-              url: "https://soundcloud.com/user-224595253-38436290/god-of-war",
-              answer: "God of War (2018)",
-              song: "Main Theme"
-            }*/
+          // Soundcloud Archive
+          // Change number of tracks to be displayed in currentHeardle (Ctrl + F) Line 4513
+          /*
+          // Day 0: Example
+          {
+              url: "",
+              aiswer: "Answer",
+              song: "Answer Theme"
+          },
+          */
+
+          // Day 1: Blasphemous
+          {
+            url: "https://soundcloud.com/carlos-viola/cantes-de-confesion?in=carlos-viola/sets/blasphemous",
+            answer: "Blasphemous",
+            song: "Cantes de Confesión"
+          },
+
+          // Day 2: Horizon Zero Dawn
+          {
+            url: "https://soundcloud.com/alya-al-buolayan/aloys-theme-horizon-zero-dawn-ost-by-joris-de-man-feat-julie-elven",
+            answer: "Horizon Zero Dawn",
+            song: "Aloy's Theme"
+          },
+
+          // Day 3: Halo 3
+          {
+            url: "https://soundcloud.com/karaalee/halo-3-main-theme-song",
+            answer: "Halo 3",
+            song: "Main Theme"
+          },
+
+          // Day 4: Persona 5
+          {
+            url: "https://soundcloud.com/aullartsalart/persona-5-ost-wake-up-get-up-get-out-therefull",
+            answer: "Persona 5",
+            song: "Wake Up, Get Up, Get Out There"
+          },
+
+          // Day 5: God of War (2018)
+          {
+            url: "https://soundcloud.com/user-224595253-38436290/god-of-war",
+            answer: "God of War (2018)",
+            song: "Main Theme"
+          },
+
+          // Day 6: The Legend of Zelda: Breath of the Wild
+          {
+            url: "https://soundcloud.com/fruitypix/zelda-botw-trailer-theme-orchestral-cover-fruitypix",
+            answer: "The Legend of Zelda: Breath of the Wild",
+            song: "Main Theme"
+          },
+
+          // Day 7: World of Warcraft - Vanilla
+          {
+            url: "https://soundcloud.com/grmu/sets/2004_world_of_warcraft_soundtrack",
+            answer: "World of Warcraft",
+            song: "Legends of Azeroth"
+          },
+
+          // Day 8: Metroid
+          {
+            url: "https://soundcloud.com/vgmplanet/5-kraids-lair?in=vgmplanet/sets/metroid-ost",
+            answer: "Metroid",
+            song: "Kraid's Lair"
+          },
+
+          // Day 9: Final Fantasy X
+          {
+            url: "https://soundcloud.com/ryanmtz/to-zanarkand-final-fantasy-x",
+            answer: "Final Fantasy X",
+            song: "To Zanarkand"
+          },
+
+          // Day 10:
+          {
+            url: "https://soundcloud.com/vgmplanet/spark-mandrill?in=vgmplanet/sets/mega-man-x-ost",
+            answer: "Megaman X",
+            song: "Spark Mandrill"
+          },
+
+          // Day 11:
+          {
+            url: "https://soundcloud.com/vgmplanet/eterna-forest?in=vgmplanet/sets/pokemon-diamond-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pokemon Diamond/Pearl/Platinum",
+            song: "Eterna Forest"
+          },
+
+          // Day 12:
+          {
+            url: "https://soundcloud.com/alexctba/theme-of-laura",
+            answer: "Silent Hill 2",
+            song: "Theme of Laura"
+          },
+
+          // Day 13:
+          {
+            url: "https://soundcloud.com/vgmplanet/onett-theme",
+            answer: "EarthBound",
+            song: "Onett Theme"
+          },
+
+          // Day 14:
+          {
+            url: "https://soundcloud.com/vgmplanet/underground-3?in=vgmplanet/sets/new-super-mario-bros-wii-ost",
+            answer: "New Super Mario Bros. Wii",
+            song: "Underground"
+          },
+
+          // Day 15: Secret of Mana
+          {
+            url: "https://soundcloud.com/vgmplanet/fear-of-the-heavens",
+            answer: "Secret of Mana",
+            song: "Fear of the Heavens"
+          }
           ],
           Pn
         ).subscribe,
