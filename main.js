@@ -8596,7 +8596,21 @@ var app = (function () {
       // song suggestion
       "Ace Attorney Justice For All",
       "Animal Crossing: New Horizons",
+      "Assassin's Creed",
+      "Assassin's Creed II",
+      "Assassin's Creed: Broterhood",
+      "Assassin's Creed: Revelations",
+      "Assassin's Creed III",
+      "Assassin's Creed IV: Black Flag",
+      "Assassin's Creed Rogue",
+      "Assassin's Creed Unity",
+      "Assassin's Creed Syndicate",
+      "Assassin's Creed Origins",
+      "Assassin's Creed Odyssey",
+      "Assassin's Creed Valhalla",
       "Bioshock",
+      "Bioshock II",
+      "Bioshock Infinite",
       "Blasphemous",
       "Bloodborne",
       "Bully",
@@ -8608,6 +8622,8 @@ var app = (function () {
       "Devil May Cry 5",
       "Doom 64",
       "Doom",
+      "Doom (2016)",
+      "Doom Eternal",
       "EarthBound",
       "Elden Ring",
       "F-Zero GX",
@@ -8717,6 +8733,8 @@ var app = (function () {
       "Super Mario World",
       "Team Fortress 2",
       "Teamfight Tactics",
+      "The Last of Us",
+      "The Last of Us Part II",
       "The Legend of Zelda",
       "The Legend of Zelda: A Link to the Past",
       "The Legend of Zelda: Breath of the Wild",
@@ -8750,7 +8768,7 @@ var app = (function () {
             // Soundcloud Archive
           // Change number of tracks to be displayed in currentHeardle (Ctrl + F)
           /*
-          // Day 0: Example
+          // Day E: Example
           {
               url: "",
               aiswer: "Answer",
@@ -8758,43 +8776,43 @@ var app = (function () {
           },
           */
             
-          // Day **: Example
+          // Day -7: Example
           {
               url: "",
               aiswer: "Answer",
               song: "Answer Theme"
           },
-          // Day **: Example
+          // Day -5: Example
           {
             url: "",
             aiswer: "Answer",
             song: "Answer Theme"
           },
-          // Day **: Example
+          // Day -4: Example
           {
               url: "",
               aiswer: "Answer",
               song: "Answer Theme"
           },
-          // Day **: Example
+          // Day -3: Example
           {
               url: "",
               aiswer: "Answer",
               song: "Answer Theme"
           },
-          // Day **: Example
+          // Day -2: Example
           {
               url: "",
               aiswer: "Answer",
               song: "Answer Theme"
           },
-          // Day **: Example
+          // Day -1: Example
           {
               url: "",
               aiswer: "Answer",
               song: "Answer Theme"
           },
-          // Day **: Example
+          // Day 0: Example
           {
             url: "",
             aiswer: "Answer",
@@ -8864,25 +8882,25 @@ var app = (function () {
             song: "To Zanarkand"
           },
 
-          // Day 10:
-          {
-            url: "https://soundcloud.com/vgmplanet/spark-mandrill?in=vgmplanet/sets/mega-man-x-ost",
-            answer: "Megaman X",
-            song: "Spark Mandrill"
-          },
-
-          // Day 11:
-          {
-            url: "https://soundcloud.com/vgmplanet/eterna-forest?in=vgmplanet/sets/pokemon-diamond-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Pokemon Diamond/Pearl/Platinum",
-            song: "Eterna Forest"
-          },
-
-          // Day 12:
+          // Day 10: Silent Hill 2
           {
             url: "https://soundcloud.com/alexctba/theme-of-laura",
             answer: "Silent Hill 2",
             song: "Theme of Laura"
+          },
+
+          // Day 11:
+          {
+            url: "https://soundcloud.com/playstation-music-group/the-last-of-us-main-theme-from",
+            answer: "The Last of Us",
+            song: "Main Theme"
+          },
+
+          // Day 12:
+          {
+            url: "https://soundcloud.com/jesperkyd/ezios-family-assassins-creed-2",
+            answer: "Assassin's Creed 2",
+            song: "Ezio's Family"
           },
 
           // Day 13:
@@ -8894,9 +8912,9 @@ var app = (function () {
 
           // Day 14:
           {
-            url: "https://soundcloud.com/vgmplanet/underground-3?in=vgmplanet/sets/new-super-mario-bros-wii-ost",
-            answer: "New Super Mario Bros. Wii",
-            song: "Underground"
+            url: "https://soundcloud.com/kevdeaf15/doom-2016-ost-rip-and-tear",
+            answer: "Doom (2016)",
+            song: "Rip and Tear"
           },
 
           // Day 15: Secret of Mana
@@ -9252,7 +9270,7 @@ var app = (function () {
             Q(Y.$$.fragment),
             (C = x()),
             H && H.c(),
-            (An.title = "Video Game Heardle"),
+            (An.title = "Gamedle"),
             M(t, "name", "description"),
             M(
               t,
