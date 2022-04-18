@@ -4510,7 +4510,7 @@ var app = (function () {
         super(),
           re(this, e, fn, hn, i, {
             userGuesses: 0,
-            currentHeardle: 2,
+            currentHeardle: 7,
             config: 1,
             hasFinished: 2,
             gotCorrect: 8,
@@ -8747,8 +8747,8 @@ var app = (function () {
       On = {
         subscribe: ue(
           [
-          // Soundcloud Archive
-          // Change number of tracks to be displayed in currentHeardle (Ctrl + F) Line 4513
+            // Soundcloud Archive
+          // Change number of tracks to be displayed in currentHeardle (Ctrl + F)
           /*
           // Day 0: Example
           {
@@ -8757,6 +8757,49 @@ var app = (function () {
               song: "Answer Theme"
           },
           */
+            
+          // Day **: Example
+          {
+              url: "",
+              aiswer: "Answer",
+              song: "Answer Theme"
+          },
+          // Day **: Example
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day **: Example
+          {
+              url: "",
+              aiswer: "Answer",
+              song: "Answer Theme"
+          },
+          // Day **: Example
+          {
+              url: "",
+              aiswer: "Answer",
+              song: "Answer Theme"
+          },
+          // Day **: Example
+          {
+              url: "",
+              aiswer: "Answer",
+              song: "Answer Theme"
+          },
+          // Day **: Example
+          {
+              url: "",
+              aiswer: "Answer",
+              song: "Answer Theme"
+          },
+          // Day **: Example
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
 
           // Day 1: Blasphemous
           {
