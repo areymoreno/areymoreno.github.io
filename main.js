@@ -8616,9 +8616,13 @@ var app = (function () {
       "Bully",
       "Celeste",
       "Cuphead",
+      "Cyberpunk 2077",
       "Dark Souls II",
       "Dark Souls III",
       "Dark Souls",
+      "Death Stranding",
+      "Destiny",
+      "Destiny II",
       "Devil May Cry 5",
       "Doom 64",
       "Doom",
@@ -8643,6 +8647,11 @@ var app = (function () {
       "Final Fantasy XIV",
       "Final Fantasy XV",
       "Final Fantasy XVI",
+      "God of War",
+      "God of War II",
+      "God of War III",
+      "God of War: Ascension",
+      "God of War (2018)",
       "Gran Turismo",
       "Gran Turismo 2",
       "Gran Turismo 3",
@@ -8656,11 +8665,7 @@ var app = (function () {
       "Grand Theft Auto: San Andreas",
       "Grand Theft Auto: IV",
       "Grand Theft Auto: V",
-      "God of War",
-      "God of War II",
-      "God of War III",
-      "God of War: Ascension",
-      "God of War (2018)",
+      "Guardians of the Galaxy",
       "Hades",
       "Halo 2",
       "Halo 3",
@@ -8735,6 +8740,7 @@ var app = (function () {
       "Starcraft 2",
       "Stardew Valley",
       "Super Mario Bros.",
+      "Super Mario Oddyssey",
       "Super Mario RPG: Legend of the Seven Stars",
       "Super Mario World 3",
       "Super Mario World",
@@ -8969,26 +8975,82 @@ var app = (function () {
             song: "Metropolis Planet Kerwan"
           },
 
-          // Day 20: Uncharted IV: A Thief's End
+          // Day 20: Super Mario Oddyssey
+          {
+            url: "https://soundcloud.com/boatbanana/jump-up-super-star",
+            answer: "Super Mario Oddysey",
+            song: "Jump Up, Super Star!"
+          },
+
+          // Day 21: Uncharted IV: A Thief's End
           {
             url: "https://soundcloud.com/eduard-rachinoiu/uncharted-4-ost-brothers-1",
             answer: "Uncharted IV: A Thief's End",
             song: "Brother's Keeper"
           },
 
-          // Day 21: The Division
+          // Day 22: The Division
           {
             url: "https://soundcloud.com/tilion88/tom-clancys-the-division-ost",
             answer: "The Division",
             song: "Main Theme Extended"
           },
 
-          // Day 22: Gran Turismo
+          // Day 23: Gran Turismo
           {
             url: "https://soundcloud.com/the-fanatix-business-email/vroom-from-gran-turismo-7",
             answer: "Gran Turismo 7",
             song: "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo | PS5, PS4 (from GRAN TURISMO 7)"
-          }
+          },
+
+          // Day 24: Grand Theft Auto V
+          {
+            url: "https://soundcloud.com/ost-game-film/gta-v-welcome-to-los-santos",
+            answer: "Grand Theft Auto V",
+            song: "Welcome to Los Santos"
+          },
+
+          // Day 25: Death Stranding
+          {
+            url: "https://soundcloud.com/user-708371813/death-stranding-clifford-unger-theme-soundtrack",
+            answer: "Death Stranding",
+            song: "Clifford Unger"
+          },
+
+          // Day 26: Cyberpunk 2077
+          {
+            url: "https://soundcloud.com/bluely-thning/samurai-chippin-in-2018-version-cyberpunk-2077-ost",
+            answer: "Cyberpunk 2077",
+            song: "SAMURAI-Chippin in (2018) Version"
+          },
+
+          // Day 27: Guardians of the Galaxy
+          {
+            url: "https://soundcloud.com/star-lordband/zero-to-hero-music-from-1",
+            answer: "Guardians of the Galaxy",
+            song: "Zero to Hero"
+          },
+
+          // Day 28: Destiny
+          {
+            url: "https://soundcloud.com/max-gamer-804622835/destiny-main-theme",
+            answer: "Destiny",
+            song: "Main Theme"
+          },
+
+          // Day 29: Call of Duty: Modern Warfare (2019)
+          {
+            url: "https://soundcloud.com/m-nh-robbie/call-of-duty-modern-warfare-ost-2019-piccadilly-circus",
+            answer: "Call of Duty: Modern Warfare (2019)",
+            song: "Picadilly Circus"
+          },
+
+          // Day 30: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
           ],
           Pn
         ).subscribe,
