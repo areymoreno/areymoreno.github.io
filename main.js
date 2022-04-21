@@ -8879,9 +8879,9 @@ var app = (function () {
 
           // Day 6: The Legend of Zelda: Breath of the Wild
           {
-            url: "https://soundcloud.com/fruitypix/zelda-botw-trailer-theme-orchestral-cover-fruitypix",
+            url: "https://soundcloud.com/unofficialkernal/the-legend-of-zelda-breath-of-the-wild-ost-main-theme-e3-2016-trailer-no-sound-effects",
             answer: "The Legend of Zelda: Breath of the Wild",
-            song: "Main Theme"
+            song: "E3 2016 Trailer Main Theme"
           },
 
           // Day 7: World of Warcraft - Vanilla
