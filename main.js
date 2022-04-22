@@ -8891,18 +8891,18 @@ var app = (function () {
             song: "Legends of Azeroth"
           },
 
-          // Day 8: Metroid
-          {
-            url: "https://soundcloud.com/vgmplanet/5-kraids-lair?in=vgmplanet/sets/metroid-ost",
-            answer: "Metroid",
-            song: "Kraid's Lair"
-          },
-
-          // Day 9: Final Fantasy X
+          // Day 8: Final Fantasy X
           {
             url: "https://soundcloud.com/ryanmtz/to-zanarkand-final-fantasy-x",
             answer: "Final Fantasy X",
             song: "To Zanarkand"
+          },
+
+          // Day 9: Metroid
+          {
+            url: "https://soundcloud.com/vgmplanet/5-kraids-lair?in=vgmplanet/sets/metroid-ost",
+            answer: "Metroid",
+            song: "Kraid's Lair"
           },
 
           // Day 10: Silent Hill 2
