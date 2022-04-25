@@ -809,25 +809,25 @@ var app = (function () {
       return [
         n,
         () => {
-          n("info", "about"),
+          n("info", "Sobre nosotros"),
             pe("clickInfo", {
               name: "clickInfo",
             });
         },
         () => {
-          n("donate", "support"),
+          n("donate", "Apoóyanos"),
             pe("clickDonate", {
               name: "clickDonate",
             });
         },
         () => {
-          n("results", "stats"),
+          n("results", "Estadísticas"),
             pe("clickStats", {
               name: "clickStats",
             });
         },
         () => {
-          n("help", "how to play"),
+          n("help", "¿Cómo jugar?"),
             pe("clickHelp", {
               name: "clickHelp",
             });
@@ -3640,7 +3640,7 @@ var app = (function () {
         c() {
           (n = w("div")),
             (n.innerHTML =
-              '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a>, and <a href="https://anime-heardle.glitch.me/" title="Heardle">Anime Heardle</a> but for Video Game songs.</p> \n\n<p class="mb-3">The music is chosen from songs I recognise so may be easy :).</p> \n\n<p class="mb-3"> Thanks for playing!</p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>.         <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>.'),
+              '<p class="mb-3"> Un clon de <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a> y <a href="https://anime-heardle.glitch.me/" title="Heardle">Anime Heardle</a> pero con música de videojuegos.\n\n<p class="mb-3">Cada día una nueva misión te espera.</p> \n\n<p class="mb-3"> ¡Gracias por jugar!</p> \n\n\n\n<p class="text-xs mb-3 text-custom-line">Creado con <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>.         <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>.'),
             M(n, "class", "text");
         },
         m(e, t) {
@@ -3666,14 +3666,14 @@ var app = (function () {
           (n = w("div")),
             (r = w("a")),
             (r.innerHTML =
-              '<span class="kofitext svelte-1d3p4dy"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>Support the Heardle devs on Ko-Fi</span><svg xmlns="http://www.w3.org/2000/svg" class="ml-2" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13M12 5l7 7-7 7"></path></svg>'),
+              '<span class="kofitext svelte-1d3p4dy"><img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg mr-2 mb-1 svelte-1d3p4dy"/>Apoya a los creadores de Heardle</span><svg xmlns="http://www.w3.org/2000/svg" class="ml-2" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h13M12 5l7 7-7 7"></path></svg>'),
             M(
               r,
               "class",
               "kofi-button py-2 px-3 rounded-lg items-center flex  svelte-1d3p4dy"
             ),
             M(r, "href", "https://ko-fi.com/heardle"),
-            M(r, "title", "Support the Heardle devs on Ko-Fi"),
+            M(r, "title", "Apoya a los creadores de Heardle"),
             M(
               n,
               "class",
@@ -3852,11 +3852,11 @@ var app = (function () {
           c() {
             (n = w("p")),
               (n.textContent =
-                "If you enjoyed the game and would like to support the Heardle devs with server costs to keep the original game running, please consider donating!"),
+                "¿Tienes alguna sugerencia de temazos? ¡Háznosla llegar!"),
               (r = x()),
               (s = w("p")),
               (s.innerHTML =
-                '<p class="mb-3">If you\'ve enjoyed playing Gamedle, then please consider supporting the <a href="https://ko-fi.com/heardle">real Heardle devs</a> as this project is based on their work.</p>'),
+                '<p class="mb-3">Esto no sería posible sin el trabajo de los <a href="https://ko-fi.com/heardle">desarrolladores del Heardle original</a></p>'),
               (i = x()),
               (o = w("div")),
               Q(a.$$.fragment),
@@ -4523,7 +4523,7 @@ var app = (function () {
       let t;
       return {
         c() {
-          t = _("Play");
+          t = _("Jugar");
         },
         m(e, n) {
           g(e, t, n);
@@ -4553,21 +4553,26 @@ var app = (function () {
             (t = w("div")),
               (n = w("div")),
               (n.innerHTML =
-                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct Video Game song in the list.</p></div>'),
+                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Escucha la intro, adivina el juego al que pertenece \n                semejante temazo. Así de simple.</p></div>'),
               (r = x()),
               (s = w("div")),
               (s.innerHTML =
-                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg></div> \n        <div><p>Skipped or incorrect attempts unlock more of the\n                intro</p></div>'),
+                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg></div> \n        <div><p>Si saltas o fallas un intento, desbloqueas más\n                segundos de la intro3</p></div>'),
               (i = x()),
               (o = w("div")),
               (o.innerHTML =
-                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-7"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg></div> \n        <div><p>Answer in as few tries  as possible and share\n                your score!</p></div>'),
+                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-7"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg></div> \n        <div><p¡Acierta en el menor número de intentos posible\n                y comparte tu puntuación!</p></div>'),
+              (hh = x()),
+              (zz = w("div")),
+              (zz.innerHTML =
+                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-7"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg></div> \n        <div><p>¡Cada día a las 00:00 (hora española) una nueva misión te espera!</p></div>'),   
               (a = x()),
               (l = w("div")),
               Q(u.$$.fragment),
               M(n, "class", "flex items-center mb-6"),
               M(s, "class", "flex items-center mb-6"),
               M(o, "class", "flex items-center mb-6"),
+              M(zz, "class", "flex items-center mb-6"),
               M(l, "class", "justify-center flex py-2 mt-2");
           },
           m(e, d) {
@@ -4685,14 +4690,14 @@ var app = (function () {
             (o = _(e[6])),
             (a = x()),
             (l = w("div")),
-            (l.textContent = "Played"),
+            (l.textContent = "Jugadas"),
             (u = x()),
             (c = w("div")),
             (d = w("div")),
             (h = _(e[8])),
             (f = x()),
             (m = w("div")),
-            (m.textContent = "Won"),
+            (m.textContent = "Acertadas"),
             (k = x()),
             (b = w("div")),
             (S = w("div")),
@@ -4700,7 +4705,7 @@ var app = (function () {
             (T = _("%")),
             (Y = x()),
             (C = w("div")),
-            (C.textContent = "Win rate"),
+            (C.textContent = "Tasa de aciertos"),
             (O = x()),
             (P = w("div")),
             (A = w("div")),
@@ -4708,14 +4713,14 @@ var app = (function () {
             (N = _(z)),
             (H = x()),
             (I = w("div")),
-            (I.textContent = "Current Streak"),
+            (I.textContent = "Racha actual"),
             (W = x()),
             (R = w("div")),
             (F = w("div")),
             (G = _(U)),
             (E = x()),
             (j = w("div")),
-            (j.textContent = "Max Streak"),
+            (j.textContent = "Mejor racha"),
             M(t, "class", "flex justify-between py-3"),
             M(i, "class", "text-xl font-semibold"),
             M(l, "class", "text-custom-line text-sm "),

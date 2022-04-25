@@ -1,0 +1,460 @@
+=== Library ===
+
+"Ace Attorney Justice For All",
+"Animal Crossing: New Horizons",
+"Assassin's Creed",
+"Assassin's Creed II",
+"Assassin's Creed: Broterhood",
+"Assassin's Creed: Revelations",
+"Assassin's Creed III",
+"Assassin's Creed IV: Black Flag",
+"Assassin's Creed Rogue",
+"Assassin's Creed Unity",
+"Assassin's Creed Syndicate",
+"Assassin's Creed Origins",
+"Assassin's Creed Odyssey",
+"Assassin's Creed Valhalla",
+"Bioshock",
+"Bioshock II",
+"Bioshock Infinite",
+"Blasphemous",
+"Bloodborne",
+"Bully",
+"Celeste",
+"Cuphead",
+"Cyberpunk 2077",
+"Dark Souls II",
+"Dark Souls III",
+"Dark Souls",
+"Death Stranding",
+"Destiny",
+"Destiny II",
+"Devil May Cry 5",
+"Doom 64",
+"Doom",
+"Doom (2016)",
+"Doom Eternal",
+"EarthBound",
+"Elden Ring",
+"F-Zero GX",
+"F-Zero",
+"Final Fantasy I",
+"Final Fantasy II",
+"Final Fantasy III",
+"Final Fantasy IV",
+"Final Fantasy IX",
+"Final Fantasy V",
+"Final Fantasy VI",
+"Final Fantasy VII Remake",
+"Final Fantasy VII",
+"Final Fantasy VIII",
+"Final Fantasy X",
+"Final Fantasy XII",
+"Final Fantasy XIV",
+"Final Fantasy XV",
+"Final Fantasy XVI",
+"God of War",
+"God of War II",
+"God of War III",
+"God of War: Ascension",
+"God of War (2018)",
+"Gran Turismo",
+"Gran Turismo 2",
+"Gran Turismo 3",
+"Gran Turismo 4",
+"Gran Turismo Sport",
+"Gran Turismo 7",
+"Grand Theft Auto",
+"Grand Theft Auto: II",
+"Grand Theft Auto: III",
+"Grand Theft Auto: Vice City",
+"Grand Theft Auto: San Andreas",
+"Grand Theft Auto: IV",
+"Grand Theft Auto: V",
+"Guardians of the Galaxy",
+"Hades",
+"Halo 2",
+"Halo 3",
+"Halo: Combat Evolved",
+"Hearthstone",
+"Horizon Zero Dawn",
+"Horizon Forbidden Wesst",
+"Kirby Super Star Ultra",
+"L.A. Noire",
+"League of Legends",
+"Left 4 Dead",
+"LittleBigPlanet",
+"Mario Kart DS",
+"Mario Kart Wii",
+"Mario Kart: Super Circuit",
+"Mario Kart 8",
+"Mario Paint",
+"Mario Strikers Charged",
+"Mass Effect Andromeda",
+"Mass Effect 3",
+"Mass Effect 2",
+"Mass Effect",
+"Mega Man 2",
+"Megaman X",
+"Metal Gear Solid",
+"Metal Gear Solid II",
+"Metal Gear Solid III",
+"Metal Gear Solid IV",
+"Metal Gear Solid V: Ground Zero",
+"Metal Gear Solid V: The Phantom Pain",
+"Metroid Fusion",
+"Metroid Prime",
+"Metroid",
+"Mike Tyson's Punch-Out!!",
+"Minecraft",
+"Mortal Kombat",
+"Mother",
+"New Super Mario Bros. Wii",
+"Nier: Automata",
+"Ninja Gaiden",
+"Overwatch",
+"Panzer Dragoon",
+"Paper Mario",
+"PaRappa the Rapper",
+"Persona 2 Eternal Punishment",
+"Persona 3",
+"Persona 5",
+"Phoenix Wright Ace Attorney Trials and Tribulations",
+"Phoenix Wright Ace Attorney",
+"Pokemon Gold/Silver/Crystal",
+"Pokemon Black/White",
+"Pokemon Diamond/Pearl/Platinum",
+"Pokemon Red/Blue/Yellow",
+"Pokemon X/Y",
+"Portal",
+"Professor Layton and the Curious Village",
+"Professor Layton and the Diabolical Box",
+"Kirby and the Forgotten Land",
+"Ratchet and Clank",
+"Ratchet and Clank: A Rift Apart",
+"Secret of Mana",
+"Silent Hill 2",
+"Silent Hill 3",
+"Silent Hill 4: The Room",
+"Silent Hill",
+"Simcity 3000",
+"Simcity",
+"Sonic Adventure",
+"Sonic Mania",
+"Sonic the Hedgehog (2006)",
+"Sonic the Hedgehog",
+"Starcraft 2",
+"Stardew Valley",
+"Super Mario Bros.",
+"Super Mario Oddyssey",
+"Super Mario RPG: Legend of the Seven Stars",
+"Super Mario World 3",
+"Super Mario World",
+"Team Fortress 2",
+"Teamfight Tactics",
+"The Division",
+"The Division II",
+"The Last of Us",
+"The Last of Us Part II",
+"The Legend of Zelda",
+"The Legend of Zelda: A Link to the Past",
+"The Legend of Zelda: Breath of the Wild",
+"The Legend of Zelda: Link's Awakening",
+"The Legend of Zelda: Majora's Mask",
+"The Legend of Zelda: Ocarina of Time",
+"The Legend of Zelda: Skyward Sword",
+"The Legend of Zelda: Twilight Princess",
+"The Legend of Zelda: Wind Waker",
+"The Sims 3",
+"The Witcher",
+"The Witcher II",
+"The Witcher III: Wild Hunt",
+"Tomb Raider",
+"Uncharted: Drake's Fortune",
+"Uncharted II: Among Thieves",
+"Uncharted III: Drake's Deception",
+"Uncharted IV: A Thief's End",
+"Uncharted: Lost Legacy",
+"Undertale",
+"World of Warcraft",
+"World of Warcraft: The Burning Crusade",
+"World of Warcraft: Wrath of the Lich King",
+"World of Warcraft: Cataclysm",
+"World of Warcraft: Mists of Pandaria",
+"World of Warcraft: Warlords of Draenor",
+"World of Warcraft: Legion",
+"World of Warcraft: Battle for Azeroth",
+"World of Warcraft: Shadowlands",
+"Xenoblade Chronicles 3",
+"Xenoblade Chronicles 2",
+"Xenoblade Chronicles",
+"Xenogears",
+"Zelda II: The Adventure of Link",
+
+
+==== SONGS ===
+
+/*
+// Day E: Example
+{
+url: "",
+aiswer: "Answer",
+song: "Answer Theme"
+},
+*/
+
+// Day -7: Example
+{
+url: "",
+aiswer: "Answer",
+song: "Answer Theme"
+},
+// Day -5: Example
+{
+url: "",
+aiswer: "Answer",
+song: "Answer Theme"
+},
+// Day -4: Example
+{
+url: "",
+aiswer: "Answer",
+song: "Answer Theme"
+},
+// Day -3: Example
+{
+url: "",
+aiswer: "Answer",
+song: "Answer Theme"
+},
+// Day -2: Example
+{
+url: "",
+aiswer: "Answer",
+song: "Answer Theme"
+},
+// Day -1: Example
+{
+url: "",
+aiswer: "Answer",
+song: "Answer Theme"
+},
+// Day 0: Example
+{
+url: "",
+aiswer: "Answer",
+song: "Answer Theme"
+},
+
+// Day 1: Blasphemous
+{
+url: "https://soundcloud.com/carlos-viola/cantes-de-confesion?in=carlos-viola/sets/blasphemous",
+answer: "Blasphemous",
+song: "Cantes de Confesión"
+},
+
+// Day 2: Horizon Zero Dawn
+{
+url: "https://soundcloud.com/alya-al-buolayan/aloys-theme-horizon-zero-dawn-ost-by-joris-de-man-feat-julie-elven",
+answer: "Horizon Zero Dawn",
+song: "Aloy's Theme"
+},
+
+// Day 3: Halo 3
+{
+url: "https://soundcloud.com/karaalee/halo-3-main-theme-song",
+answer: "Halo 3",
+song: "Main Theme"
+},
+
+// Day 4: Persona 5
+{
+url: "https://soundcloud.com/aullartsalart/persona-5-ost-wake-up-get-up-get-out-therefull",
+answer: "Persona 5",
+song: "Wake Up, Get Up, Get Out There"
+},
+
+// Day 5: God of War (2018)
+{
+url: "https://soundcloud.com/user-224595253-38436290/god-of-war",
+answer: "God of War (2018)",
+song: "Main Theme"
+},
+
+// Day 6: The Legend of Zelda: Breath of the Wild
+{
+url:
+"https://soundcloud.com/unofficialkernal/the-legend-of-zelda-breath-of-the-wild-ost-main-theme-e3-2016-trailer-no-sound-effects",
+answer: "The Legend of Zelda: Breath of the Wild",
+song: "E3 2016 Trailer Main Theme"
+},
+
+// Day 7: World of Warcraft - Vanilla
+{
+url: "https://soundcloud.com/grmu/sets/2004_world_of_warcraft_soundtrack",
+answer: "World of Warcraft",
+song: "Legends of Azeroth"
+},
+
+// Day 8: Final Fantasy X
+{
+url: "https://soundcloud.com/ryanmtz/to-zanarkand-final-fantasy-x",
+answer: "Final Fantasy X",
+song: "To Zanarkand"
+},
+
+// Day 9: Metroid
+{
+url: "https://soundcloud.com/vgmplanet/5-kraids-lair?in=vgmplanet/sets/metroid-ost",
+answer: "Metroid",
+song: "Kraid's Lair"
+},
+
+// Day 10: Silent Hill 2
+{
+url: "https://soundcloud.com/alexctba/theme-of-laura",
+answer: "Silent Hill 2",
+song: "Theme of Laura"
+},
+
+// Day 11: The Last of Us
+{
+url: "https://soundcloud.com/playstation-music-group/the-last-of-us-main-theme-from",
+answer: "The Last of Us",
+song: "Main Theme"
+},
+
+// Day 12: Assassin's Creed II
+{
+url: "https://soundcloud.com/jesperkyd/ezios-family-assassins-creed-2",
+answer: "Assassin's Creed II",
+song: "Ezio's Family"
+},
+
+// Day 13: EarthBound
+{
+url: "https://soundcloud.com/vgmplanet/onett-theme",
+answer: "EarthBound",
+song: "Onett Theme"
+},
+
+// Day 14: Doom (2016)
+{
+url: "https://soundcloud.com/kevdeaf15/doom-2016-ost-rip-and-tear",
+answer: "Doom (2016)",
+song: "Rip and Tear"
+},
+
+// Day 15: Secret of Mana
+{
+url: "https://soundcloud.com/vgmplanet/fear-of-the-heavens",
+answer: "Secret of Mana",
+song: "Fear of the Heavens"
+},
+
+// Day 16: The Witcher III
+{
+url: "https://soundcloud.com/rpg_ost/the-witcher-3-ost-merchants-of-novigrad",
+answer: "The Witcher III: Wild Hunt",
+song: "Merchants of Novingrad"
+},
+
+// Day 17: Kirby and the Forgotten Land
+{
+url: "https://soundcloud.com/jhong-xina/sets/kirby-and-the-forgotten-land-1",
+answer: "Kirby and the Forgotten Land",
+song: "Ready to Go (Main Theme)"
+},
+
+// Day 18: Dark Souls
+{
+url: "https://soundcloud.com/supawalrus/gwyn-lord-of-cinder",
+answer: "Dark Souls",
+song: "Gwyn, Lord of Cynder"
+},
+
+// Day 19: Ratchet and Clank
+{
+url: "https://soundcloud.com/laura-novarino/ratchet-and-clank-ost-metropolis-planet-kerwan",
+answer: "Ratchet and Clank",
+song: "Metropolis Planet Kerwan"
+},
+
+// Day 20: Super Mario Oddyssey
+{
+url: "https://soundcloud.com/boatbanana/jump-up-super-star",
+answer: "Super Mario Oddysey",
+song: "Jump Up, Super Star!"
+},
+
+// Day 21: Uncharted IV: A Thief's End
+{
+url: "https://soundcloud.com/eduard-rachinoiu/uncharted-4-ost-brothers-1",
+answer: "Uncharted IV: A Thief's End",
+song: "Brother's Keeper"
+},
+
+// Day 22: The Division
+{
+url: "https://soundcloud.com/tilion88/tom-clancys-the-division-ost",
+answer: "The Division",
+song: "Main Theme Extended"
+},
+
+// Day 23: Gran Turismo
+{
+url: "https://soundcloud.com/the-fanatix-business-email/vroom-from-gran-turismo-7",
+answer: "Gran Turismo 7",
+song: "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo | PS5, PS4 (from GRAN TURISMO 7)"
+},
+
+// Day 24: Grand Theft Auto V
+{
+url: "https://soundcloud.com/ost-game-film/gta-v-welcome-to-los-santos",
+answer: "Grand Theft Auto V",
+song: "Welcome to Los Santos"
+},
+
+// Day 25: Death Stranding
+{
+url: "https://soundcloud.com/user-708371813/death-stranding-clifford-unger-theme-soundtrack",
+answer: "Death Stranding",
+song: "Clifford Unger"
+},
+
+// Day 26: Cyberpunk 2077
+{
+url: "https://soundcloud.com/bluely-thning/samurai-chippin-in-2018-version-cyberpunk-2077-ost",
+answer: "Cyberpunk 2077",
+song: "SAMURAI-Chippin in (2018) Version"
+},
+
+// Day 27: Guardians of the Galaxy
+{
+url: "https://soundcloud.com/star-lordband/zero-to-hero-music-from-1",
+answer: "Guardians of the Galaxy",
+song: "Zero to Hero"
+},
+
+// Day 28: Destiny
+{
+url: "https://soundcloud.com/max-gamer-804622835/destiny-main-theme",
+answer: "Destiny",
+song: "Main Theme"
+},
+
+// Day 29: Call of Duty: Modern Warfare (2019)
+{
+url: "https://soundcloud.com/m-nh-robbie/call-of-duty-modern-warfare-ost-2019-piccadilly-circus",
+answer: "Call of Duty: Modern Warfare (2019)",
+song: "Picadilly Circus"
+},
+
+// Day 30: Control
+{
+url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+answer: "Control",
+song: "Take Control - Old Gods of Asgard"
+},
+],
+Pn
