@@ -3076,7 +3076,7 @@ var app = (function () {
       let n, r;
       return {
         c() {
-          (n = _("Saltar ")), (r = w("span")), (r.textContent = "(+1.5s)");
+          (n = _("Saltar ")), (r = w("span")), (r.textContent = "(+1.25s)");
         },
         m(e, t) {
           g(e, n, t), g(e, r, t);
