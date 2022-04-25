@@ -1782,7 +1782,7 @@ var app = (function () {
         c() {
           (t = w("div")),
             (t.innerHTML =
-              '<p>Turn up the volume and tap to start the track!</p> \n\n                <svg class="mt-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>'),
+              '<p>¡Sube el volumen y dale al play!</p> \n\n                <svg class="mt-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>'),
             M(
               t,
               "class",
@@ -3076,7 +3076,7 @@ var app = (function () {
       let n, r;
       return {
         c() {
-          (n = _("Skip ")), (r = w("span")), (r.textContent = "(+1.5s)");
+          (n = _("Saltar ")), (r = w("span")), (r.textContent = "(+1.5s)");
         },
         m(e, t) {
           g(e, n, t), g(e, r, t);
@@ -3091,7 +3091,7 @@ var app = (function () {
       let t, n, r, s, i;
       return {
         c() {
-          (t = _("Skip ")),
+          (t = _("Saltar ")),
             (n = w("span")),
             (r = _("(+")),
             (s = _(e[0])),
@@ -3138,7 +3138,7 @@ var app = (function () {
       let t;
       return {
         c() {
-          t = _("Submit");
+          t = _("Resolver 🤟");
         },
         m(e, n) {
           g(e, t, n);
@@ -3313,7 +3313,7 @@ var app = (function () {
       P(() => {
         !(function () {
           const e = new wt({
-            placeHolder: "Know it? Search for the artist / title",
+            placeHolder: "¿La reconoces? Pues busca el juego 🔍",
             threshold: 1,
             wrapper: !1,
             resultsList: {
@@ -3376,7 +3376,7 @@ var app = (function () {
             (r = this.value), n(4, r);
           },
           () => l.clear(),
-          () => c("skipped"),
+          () => c("Saltada 😕"),
         ]
       );
     }
@@ -4582,6 +4582,8 @@ var app = (function () {
               p(t, s),
               p(t, i),
               p(t, o),
+              p(t, hh),
+              p(t, zz),
               p(t, a),
               p(t, l),
               ee(u, l, null),
