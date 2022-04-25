@@ -3076,7 +3076,7 @@ var app = (function () {
       let n, r;
       return {
         c() {
-          (n = _("Saltar ")), (r = w("span")), (r.textContent = "(+1.25s)");
+          (n = _("Saltar ")), (r = w("span")), (r.textContent = "(+1.5s)");
         },
         m(e, t) {
           g(e, n, t), g(e, r, t);
@@ -4562,17 +4562,12 @@ var app = (function () {
               (o = w("div")),
               (o.innerHTML =
                 '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-7"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg></div> \n        <div><p¡Acierta en el menor número de intentos posible\n                y comparte tu puntuación!</p></div>'),
-              (hh = x()),
-              (zz = w("div")),
-              (zz.innerHTML =
-                '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-7"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg></div> \n        <div><p>¡Cada día a las 00:00 (hora española) una nueva misión te espera!</p></div>'),   
               (a = x()),
               (l = w("div")),
               Q(u.$$.fragment),
               M(n, "class", "flex items-center mb-6"),
               M(s, "class", "flex items-center mb-6"),
               M(o, "class", "flex items-center mb-6"),
-              M(zz, "class", "flex items-center mb-6"),
               M(l, "class", "justify-center flex py-2 mt-2");
           },
           m(e, d) {
@@ -4582,8 +4577,6 @@ var app = (function () {
               p(t, s),
               p(t, i),
               p(t, o),
-              p(t, hh),
-              p(t, zz),
               p(t, a),
               p(t, l),
               ee(u, l, null),
