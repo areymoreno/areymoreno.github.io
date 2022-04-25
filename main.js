@@ -708,7 +708,7 @@ var app = (function () {
               Q(a.$$.fragment),
               (l = x()),
               (u = w("h1")),
-              (u.textContent = "Gamedle"),
+              (u.textContent = "🎮 Gamedle"),
               (c = x()),
               (d = w("div")),
               Q(h.$$.fragment),
@@ -4043,7 +4043,7 @@ var app = (function () {
               (T = w("div")),
               (Y = w("div")),
               (Y.innerHTML =
-                '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">Gamedle?</span>'),
+                '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">¿Nos apoyas?</span>'),
               (C = x()),
               Q(O.$$.fragment),
               M(n, "class", "text-lg text-custom-line"),
@@ -4253,9 +4253,9 @@ var app = (function () {
         s = (e[0].length * e[1].attemptInterval) / 1e3 + "";
       return {
         c() {
-          (t = _("You got today's Gamedle within the first ")),
+          (t = _("Has acertado en ")),
             (n = _(s)),
-            (r = _(" seconds."));
+            (r = _(" segundos."));
         },
         m(e, s) {
           g(e, t, s), g(e, n, s), g(e, r, s);
@@ -4345,7 +4345,7 @@ var app = (function () {
       let t, n, r, s, i, o, a;
       return {
         c() {
-          (t = _("Share\n                ")),
+          (t = _("¡Comparte!\n                ")),
             (n = k("svg")),
             (r = k("circle")),
             (s = k("circle")),
@@ -4435,7 +4435,7 @@ var app = (function () {
         A(),
         (e.$$set = (e) => {
           "userGuesses" in e && n(0, (r = e.userGuesses)),
-            "currentHeardle" in e && n(0, (s = e.currentHeardle)),
+            "currentHeardle" in e && n(7, (s = e.currentHeardle)),
             "config" in e && n(1, (i = e.config)),
             "hasFinished" in e && n(2, (o = e.hasFinished)),
             "gotCorrect" in e && n(8, (a = e.gotCorrect)),
@@ -4450,7 +4450,7 @@ var app = (function () {
           u,
           c,
           () => {
-            let e = "Gamedle Result - https://areymoreno.github.io/ - ",
+            let e = "🎮 Gamedle #" + (s.id + 1),
               t = "";
             a
               ? r.length < i.maxAttempts / 3
@@ -4487,7 +4487,7 @@ var app = (function () {
                   }, 2e3),
                   navigator.clipboard.writeText(o))
                 : Promise.reject(
-                    "There was a problem copying your result to the clipboard"
+                    "Hubo un problema copiando al portapapeles"
                   );
             navigator
               .share({
@@ -9405,7 +9405,7 @@ var app = (function () {
             Q(Y.$$.fragment),
             (C = x()),
             H && H.c(),
-            (An.title = "Gamedle"),
+            (An.title = "🎮 Gamedle"),
             M(t, "name", "description"),
             M(
               t,
