@@ -1311,7 +1311,7 @@ var app = (function () {
       return {
         c() {
           (n = w("div")),
-            (n.innerHTML = '<span class="loader svelte-57p3aa"></span>'),
+            (n.innerHTML = ''),
             M(n, "class", "flex justify-center m-3");
         },
         m(e, t) {
@@ -3909,13 +3909,13 @@ var app = (function () {
         startDate: "2022-04-09",
       },
       Jt = [
-        "Try using more gamer words", // FAILED
-        "So you're the guy who listens to the songs rather than playing the game", // First try
-        "A classic game, a classic tune",
-        "Only iron players have taken this many guesses",
-        "You must not have played this game",
-        "Took you long enough",
-        "The song must have looped by this point", // Sixth try
+        "¡YOU LOSE! - Street Fighter", // FAILED
+        "Es increíble lo que una persona puede llegar a olvidar... pero es más sorprendente lo que puede llegar a esconder. - Tifa Lockhart", // First try
+        "No elegimos como empezamos en esta vida. La verdadera grandeza es que hacemos con lo que nos toca. - Sully",
+        "Un hombre elige, un esclavo obedece. - Andrew Ryan",
+        "Al final, solo lamentamos lo que no hemos hecho. - Taric",
+        "¡Es peligroso ir por allí solo! Toma ésto. - Sabio en TLoZ",
+        "Me siento como si pudiera… como si pudiera… ¡conquistar el mundo! - Day of Tentacle", // Sixth try
       ];
     function Kt(t) {
       let n, r;
@@ -4280,9 +4280,9 @@ var app = (function () {
         a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
       return {
         c() {
-          (t = _("You got today's Gamedle within ")),
+          (t = _("Bien hecho, aquí tienes tus  ")),
             (n = _(o)),
-            (r = _("\n                second")),
+            (r = _("\n                puntos de experiencia (segundos).")),
             (s = _(a)),
             (i = _("."));
         },
@@ -4310,7 +4310,7 @@ var app = (function () {
       let n;
       return {
         c() {
-          n = _("You didn't get today's Gamedle. Better luck tomorrow!");
+          n = _("¿Necesitas un modo fácil? Pues vete a pedírselo a Miyazaki...");
         },
         m(e, t) {
           g(e, n, t);
