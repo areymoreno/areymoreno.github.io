@@ -4450,7 +4450,7 @@ var app = (function () {
           u,
           c,
           () => {
-            let e = "🎮 Gamedle #" + (s.id + 1),
+            let e = "🎮 Gamedle - https://areymoreno.github.io/",
               t = "";
             a
               ? r.length < i.maxAttempts / 3
