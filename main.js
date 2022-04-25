@@ -4326,7 +4326,7 @@ var app = (function () {
       return {
         c() {
           (t = w("div")),
-            (t.textContent = "Copied to clipboard!"),
+            (t.textContent = "¡Copiado al portapapeles!"),
             M(
               t,
               "class",
