@@ -784,7 +784,7 @@ var app = (function () {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "Gamedle"),
+            (u.textContent = "🎮 Gamedle"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -3296,7 +3296,7 @@ var app = (function () {
     let t;
     return {
       c() {
-        t = _("Submit");
+        t = _("Enviar");
       },
       m(e, n) {
         g(e, t, n);
@@ -4036,11 +4036,11 @@ var app = (function () {
         c() {
           (n = w("p")),
           (n.textContent =
-            "If you enjoyed the game and would like to support the Heardle devs with server costs to keep the original game running, please consider donating!"),
+            "Si te ha gustado el juego y quieres ayudar a los desarrolladores de Heardle a sufragar los costes de los servidores para que el juego original siga funcionando, ¡considera la posibilidad de hacer una donación!"),
           (r = x()),
           (s = w("p")),
           (s.innerHTML =
-            '<p class="mb-3">If you\'ve enjoyed playing Gamedle, then please consider supporting the <a href="https://ko-fi.com/heardle">real Heardle devs</a> as this project is based on their work.</p>'),
+            '<p class="mb-3">Si has disfrutado jugando a Gamedle, considera la posibilidad de apoyar el proyecto de los desarrolladores originales de <a href="https://ko-fi.com/heardle">Heardle</a>.</p>'),
           (i = x()),
           (o = w("div")),
           Q(a.$$.fragment),
@@ -9137,6 +9137,7 @@ var app = (function () {
       "Final Fantasy XIV",
       "Final Fantasy XV",
       "Final Fantasy XVI",
+      "Ghost of Tsushima",
       "God of War",
       "God of War II",
       "God of War III",
@@ -9894,12 +9895,12 @@ var app = (function () {
           Q(Y.$$.fragment),
           (C = x()),
           H && H.c(),
-          (An.title = "Gamedle"),
+          (An.title = "🎮 Gamedle"),
           M(t, "name", "description"),
           M(
             t,
             "content",
-            "Guess the Video Game song from the intro in as few tries as possible"
+            "Adivina lo antes posible a que juego pertenece la siguiente banda sonora..."
           ),
           M(n, "rel", "apple-touch-icon"),
           M(n, "sizes", "180x180"),
