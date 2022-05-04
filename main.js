@@ -9231,7 +9231,7 @@ var app = (function () {
       "Starcraft 2",
       "Stardew Valley",
       "Super Mario Bros.",
-      "Super Mario Oddyssey",
+      "Super Mario Odyssey",
       "Super Mario RPG: Legend of the Seven Stars",
       "Super Mario World 3",
       "Super Mario World",
@@ -9469,7 +9469,7 @@ var app = (function () {
           // Day 20: Super Mario Oddyssey
           {
             url: "https://soundcloud.com/boatbanana/jump-up-super-star",
-            answer: "Super Mario Oddysey",
+            answer: "Super Mario Odyssey",
             song: "Jump Up, Super Star!"
           },
 
