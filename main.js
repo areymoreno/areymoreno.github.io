@@ -9106,6 +9106,14 @@ var app = (function () {
       "Bully",
       "Celeste",
       "Cuphead",
+      "Crash Bandicoot",
+      "Crash Bandicoot 2",
+      "Crash Bandicoot 3: Warped",
+      "Crash Team Racing",
+      "Crash Bandicoot 4",
+      "Crysis",
+      "Crysis 2",
+      "Crysis 3",
       "Cyberpunk 2077",
       "Dark Souls II",
       "Dark Souls III",
@@ -9118,10 +9126,19 @@ var app = (function () {
       "Doom",
       "Doom (2016)",
       "Doom Eternal",
+      "Dragon Age",
+      "Dragon Age 2",
+      "Dragon Age Inquisition",
       "EarthBound",
       "Elden Ring",
       "F-Zero GX",
       "F-Zero",
+      "Fallout",
+      "Fallout 2",
+      "Fallout 3",
+      "Fallout 4",
+      "Fallout New Vegas",
+      "Fallout 76",
       "Final Fantasy I",
       "Final Fantasy II",
       "Final Fantasy III",
@@ -9164,6 +9181,9 @@ var app = (function () {
       "Hearthstone",
       "Horizon Zero Dawn",
       "Horizon Forbidden Wesst",
+      "Kingdom Hearts",
+      "Kingdom Hearts II",
+      "Kingdom Hearts III",
       "Kirby Super Star Ultra",
       "L.A. Noire",
       "League of Legends",
@@ -9218,6 +9238,7 @@ var app = (function () {
       "Ratchet and Clank",
       "Ratchet and Clank: A Rift Apart",
       "Secret of Mana",
+      "Sifu",
       "Silent Hill 2",
       "Silent Hill 3",
       "Silent Hill 4: The Room",
@@ -9230,11 +9251,13 @@ var app = (function () {
       "Sonic the Hedgehog",
       "Starcraft 2",
       "Stardew Valley",
+      "Super Mario 64",
       "Super Mario Bros.",
       "Super Mario Odyssey",
       "Super Mario RPG: Legend of the Seven Stars",
       "Super Mario World 3",
       "Super Mario World",
+      "Super Smash Bros. Brawl",
       "Team Fortress 2",
       "Teamfight Tactics",
       "The Division",
@@ -9542,6 +9565,210 @@ var app = (function () {
             answer: "Control",
             song: "Take Control - Old Gods of Asgard"
           },
+
+          // Day 31: Xenoblade Chronicles
+          {
+            url: "https://soundcloud.com/zxecutionrz/xc-main-theme",
+            answer: "Xenoblade Chronicles",
+            song: "Main Theme"
+          },
+
+          // Day 32: Sifu
+          {
+            url: "https://soundcloud.com/okie-pokie-297697181/sifu-martial-mastery-game-version",
+            answer: "Sifu",
+            song: "Martial Mastery"
+          },
+
+          // Day 33: Elden Ring
+          {
+            url: "https://soundcloud.com/user-709577089/elden-ring-main-theme",
+            answer: "Elden Ring",
+            song: "Main Theme"
+          },
+
+          // Day 34: Crash Bandicoot
+          {
+            url: "https://soundcloud.com/nachohjk/crash-bandicoot-1-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crash Bandicoot",
+            song: "PSOne Main Theme"
+          },
+
+          // Day 35: Assassin's Creed Rogue
+          {
+            url: "https://soundcloud.com/elitsaalexandrova/assassins-creed-rogue-main-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Assassin's Creed Rogue",
+            song: "Main Theme"
+          },
+
+          // Day 36: Super Smash Bros. Brawl
+          {
+            url: "https://soundcloud.com/theyoungfolks-1/super-smash-bros-brawl-main?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Super Smash Bros. Brawl",
+            song: "Main Theme"
+          },
+
+          // Day 37: Fallout 4
+          {
+            url: "https://soundcloud.com/alexctba/fallout-4-main-theme-by-inon-zur?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fallout 4",
+            song: "Main Theme"
+          },
+
+          // Day 38: Dragon Age Inquisition
+          {
+            url: "https://soundcloud.com/biowareofficial/dragon-age-inquisition-main-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dragon Age Inquisition",
+            song: "Main Theme"
+          },
+
+          // Day 39: Crysis 2
+          {
+            url: "https://soundcloud.com/joy-diaz-santana/hans-zimmer-epilogue-main?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crysis 2",
+            song: "Epilogue"
+          },
+
+          // Day 40: Super Mario 64
+          {
+            url: "https://soundcloud.com/musicforpeople/super-mario-64-main-theme-music-bob-omb-battlefield?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Super Mario 64",
+            song: "Main Theme"
+          },
+
+          // Day 41: Kingdom Hearts
+          {
+            url: "https://soundcloud.com/yoshi-blue-dino/kingdom-hearts-main-menu-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kingdom Hearts",
+            song: "Main Theme"
+          },
+
+          // Day 42: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 43: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 44: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 45: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 46: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 48: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 49: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 50: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 51: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 52: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 53: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 54: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 55: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 56: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 57: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 58: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 59: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+
+          // Day 60: Control
+          {
+            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
+            answer: "Control",
+            song: "Take Control - Old Gods of Asgard"
+          },
+          
         ],
         Pn
       ).subscribe,
