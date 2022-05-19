@@ -9118,10 +9118,17 @@ var app = (function () {
       "Dark Souls II",
       "Dark Souls III",
       "Dark Souls",
+      "Days Gone",
+      "Demon's Souls Remake",
+      "Dead Cells",
+      "Dead Space",
+      "Dead Space 2",
+      "Dead Space 3",
       "Death Stranding",
       "Destiny",
       "Destiny II",
       "Devil May Cry 5",
+      "Disco Elysium",
       "Doom 64",
       "Doom",
       "Doom (2016)",
@@ -9139,6 +9146,15 @@ var app = (function () {
       "Fallout 4",
       "Fallout New Vegas",
       "Fallout 76",
+      "Far Cry",
+      "Far Cry 2",
+      "Far Cry 3",
+      "Far Cry 4",
+      "Far Cry 5",
+      "Far Cry 6",
+      "Far Cry Primal",
+      "Far Cry New Dawn",
+      "Far Cry Blood Dragon",
       "Final Fantasy I",
       "Final Fantasy II",
       "Final Fantasy III",
@@ -9154,6 +9170,11 @@ var app = (function () {
       "Final Fantasy XIV",
       "Final Fantasy XV",
       "Final Fantasy XVI",
+      "Fortnite",
+      "Gears of War 4",
+      "Gears of War",
+      "Gears of War 3",
+      "Gears of War 2",
       "Ghost of Tsushima",
       "God of War",
       "God of War II",
@@ -9174,13 +9195,19 @@ var app = (function () {
       "Grand Theft Auto IV",
       "Grand Theft Auto V",
       "Guardians of the Galaxy",
+      "Hablando de Videojuegos",
       "Hades",
       "Halo 2",
       "Halo 3",
       "Halo: Combat Evolved",
       "Hearthstone",
-      "Horizon Zero Dawn",
-      "Horizon Forbidden Wesst",
+      "Horizon: Zero Dawn",
+      "Horizon: Forbidden West",
+      "Killzone",
+      "Killzone 2",
+      "Killzone 3",
+      "Killzone Shadow Fall",
+      "Killing Floor",
       "Kingdom Hearts",
       "Kingdom Hearts II",
       "Kingdom Hearts III",
@@ -9218,6 +9245,20 @@ var app = (function () {
       "Nier: Automata",
       "Ninja Gaiden",
       "Overwatch",
+      "Red Dead Redemption",
+      "Red Dead Redemption 2",
+      "Resident Evil",
+      "Resident Evil 2",
+      "Resident Evil 3",
+      "Resident Evil 4",
+      "Resident Evil 5",
+      "Resident Evil 6",
+      "Resident Evil 7",
+      "Resident Evil Revelations",
+      "Resident Evil: Revelations 2",
+      "Resident Evil 0",
+      "Resident Evil Remake",
+      "Resident Evil 2 Remake",
       "Panzer Dragoon",
       "Paper Mario",
       "PaRappa the Rapper",
@@ -9235,6 +9276,7 @@ var app = (function () {
       "Professor Layton and the Curious Village",
       "Professor Layton and the Diabolical Box",
       "Kirby and the Forgotten Land",
+      "Rainbow Six Siege",
       "Ratchet and Clank",
       "Ratchet and Clank: A Rift Apart",
       "Secret of Mana",
@@ -9568,8 +9610,8 @@ var app = (function () {
 
           // Day 31: Xenoblade Chronicles
           {
-            url: "https://soundcloud.com/zxecutionrz/xc-main-theme",
-            answer: "Xenoblade Chronicles",
+            url: "https://soundcloud.com/elitsaalexandrova/assassins-creed-rogue-main-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Assassin's Creed Rogue",
             song: "Main Theme"
           },
 
@@ -9594,10 +9636,10 @@ var app = (function () {
             song: "PSOne Main Theme"
           },
 
-          // Day 35: Assassin's Creed Rogue
+          // Day 35: Xenoblade Chronicles
           {
-            url: "https://soundcloud.com/elitsaalexandrova/assassins-creed-rogue-main-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Assassin's Creed Rogue",
+            url: "https://soundcloud.com/zxecutionrz/xc-main-theme",
+            answer: "Xenoblade Chronicles",
             song: "Main Theme"
           },
 
@@ -9643,130 +9685,130 @@ var app = (function () {
             song: "Main Theme"
           },
 
-          // Day 42: Control
+          // Day 42: Dead Space 3
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/romularius/01-dead-space-3-ost-001-200?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dead Space 3",
+            song: "200 Years Ago, On An Icy"
           },
 
-          // Day 43: Control
+          // Day 43: Final Fantasy VII Remake
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/crystalchobo1/d1-1-the-prelude-reunion-final-fantasy-vii-remake-ost?in=oof2u/sets/final-fantasy-vii-remake-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Fantasy VII Remake",
+            song: "The Prelude"
           },
 
-          // Day 44: Control
+          // Day 44: Bloodborne
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/phenix63/bloodborne-ost-23-no-spoil-for-the-moment?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bloodborne",
+            song: "The First Hunter"
           },
 
-          // Day 45: Control
+          // Day 45: Demon's Souls Remake
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/swadbando/demons-souls-ost-07-tower-knightwmv?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demon's Souls Remake",
+            song: "Knight Tower"
           },
 
-          // Day 46: Control
+          // Day 46: TThe Legend of Zelda: Ocarina of Time
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/8-bit-generation2/the-legend-of-zelda-ocarina-of?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Legend of Zelda: Ocarina of Time",
+            song: "Lost Woods"
           },
 
-          // Day 48: Control
+          // Day 48: Disco Elysium
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/alexander-sapelkin-206742662/01-instrument-of-surrender?in=user-396803234/sets/disco-elysium-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Disco Elysium",
+            song: "Instrument of Surrender"
           },
 
-          // Day 49: Control
+          // Day 49: Hearthstone
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/hs-sh-230902082/hearthstone-soundtrack-ost-full-themes?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Hearthstone",
+            song: "Main Theme"
           },
 
-          // Day 50: Control
+          // Day 50: Rainbow Six Siege - Chimera
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/taylor-landry-715296534/rainbow-six-siege-operation-chimera-main-menu-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rainbow Six Siege",
+            song: "Main Menu Theme"
           },
 
-          // Day 51: Control
+          // Day 51: Fortnite
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/jonty-botha/fortnite-battle-royale-ost-main-menu-theme1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fortnite",
+            song: "Main Menu Theme"
           },
 
-          // Day 52: Control
+          // Day 52: Hablando de videojuegos - 500
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/alberto-rey-moreno/hablando-de-videojuegos/",
+            answer: "Hablando de videojuegos",
+            song: "HDV - Hablando de videojuegos - Main Theme"
           },
 
-          // Day 53: Control
+          // Day 53: Far Cry 6
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/0y8ycmehcydk/far-cry-6-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Far Cry 6",
+            song: "Main Theme"
           },
 
-          // Day 54: Control
+          // Day 54: Resident Evil 2 Remake
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/ultra-lord-765624025/resident-evil-2-remake-ost-hunk-theme-extended?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Resident Evil 2 Remake",
+            song: "Hunk Theme"
           },
 
-          // Day 55: Control
+          // Day 55: Minecraft
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/minecraft-soundtrack/minecraft?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Minecraft",
+            song: "Main Theme"
           },
 
-          // Day 56: Control
+          // Day 56: Gears of War 2
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/scope1283/51-gears-of-war-2-main-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gears of War 2",
+            song: "Main Theme"
           },
 
-          // Day 57: Control
+          // Day 57: Halo 3
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/the-han-cholo/halo-3-odst-ost-with-ambient-rain?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Halo 3",
+            song: "ODST Theme"
           },
 
-          // Day 58: Control
+          // Day 58: Red Dead Redemption 2
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/delux-rice-3/rdr2-ost-saloon-main-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Red Dead Redemption 2",
+            song: "Saloon Main Theme (Lenny)"
           },
 
-          // Day 59: Control
+          // Day 59: Days Gone
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/goldielou2/days-gone-ost-sarah-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Days Gone",
+            song: "Sarah's Theme"
           },
 
-          // Day 60: Control
+          // Day 60: Killzone
           {
-            url: "https://soundcloud.com/filip-czerwi-ski-1/take-control",
-            answer: "Control",
-            song: "Take Control - Old Gods of Asgard"
+            url: "https://soundcloud.com/xerlientt/main-theme-helghast-march?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Killzone",
+            song: "Helghast March"
           },
           
         ],
