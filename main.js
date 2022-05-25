@@ -9680,7 +9680,7 @@ var app = (function () {
 
           // Day 41: Kingdom Hearts
           {
-            url: "https://soundcloud.com/yoshi-blue-dino/kingdom-hearts-main-menu-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/leslie-tuyet-nguyen/simple-and-clean-from-kingdom?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Kingdom Hearts",
             song: "Main Theme"
           },
