@@ -9748,11 +9748,11 @@ var app = (function () {
             song: "Main Menu Theme"
           },
 
-          // Day 52: Hablando de videojuegos - 500
+          // Day 52: Red Dead Redemption 2
           {
-            url: "https://soundcloud.com/alberto-rey-moreno/hablando-de-videojuegos/",
-            answer: "Hablando de videojuegos",
-            song: "HDV - Hablando de videojuegos - Main Theme"
+            url: "https://soundcloud.com/delux-rice-3/rdr2-ost-saloon-main-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Red Dead Redemption 2",
+            song: "Saloon Main Theme (Lenny)"
           },
 
           // Day 53: Far Cry 6
@@ -9790,11 +9790,11 @@ var app = (function () {
             song: "ODST Theme"
           },
 
-          // Day 58: Red Dead Redemption 2
+          // Day 58: Hablando de videojuegos - 500
           {
-            url: "https://soundcloud.com/delux-rice-3/rdr2-ost-saloon-main-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Red Dead Redemption 2",
-            song: "Saloon Main Theme (Lenny)"
+            url: "https://soundcloud.com/alberto-rey-moreno/hablando-de-videojuegos/",
+            answer: "Hablando de videojuegos",
+            song: "HDV - Hablando de videojuegos - Main Theme"
           },
 
           // Day 59: Days Gone
