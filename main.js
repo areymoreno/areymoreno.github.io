@@ -9786,7 +9786,7 @@ var app = (function () {
           // Day 57: Hablando de videojuegos - 500
           {
             url: "https://soundcloud.com/alberto-rey-moreno/hablando-de-videojuegos",
-            answer: "Hablando de videojuegos",
+            answer: "Hablando de Videojuegos",
             song: "HDV - Hablando de videojuegos - Main Theme"
           },
 
