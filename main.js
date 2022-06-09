@@ -9783,18 +9783,18 @@ var app = (function () {
             song: "Main Theme"
           },
 
-          // Day 57: Halo 3
+          // Day 57: Hablando de videojuegos - 500
+          {
+            url: "https://soundcloud.com/alberto-rey-moreno/hablando-de-videojuegos",
+            answer: "Hablando de videojuegos",
+            song: "HDV - Hablando de videojuegos - Main Theme"
+          },
+
+          // Day 58: Halo 3
           {
             url: "https://soundcloud.com/the-han-cholo/halo-3-odst-ost-with-ambient-rain?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Halo 3",
             song: "ODST Theme"
-          },
-
-          // Day 58: Hablando de videojuegos - 500
-          {
-            url: "https://soundcloud.com/alberto-rey-moreno/hablando-de-videojuegos/",
-            answer: "Hablando de videojuegos",
-            song: "HDV - Hablando de videojuegos - Main Theme"
           },
 
           // Day 59: Days Gone
