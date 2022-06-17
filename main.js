@@ -9822,17 +9822,17 @@ var app = (function () {
             aiswer: "Answer",
             song: "Answer Theme"
           },
-          // Day 63: Killzone
+          // Day 63: League of Legends
           {
             url: "https://soundcloud.com/official_lol/warriors-feat-edda-hayes-official-imagine-dragons-cover-from-league-of-legends-trailer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             aiswer: "League of Legends",
             song: "Warriors - feat. Edda Hayes - 2WEI (Official Imagine Dragons cover from League of Legends trailer)"
           },
-          // Day 64: League of Legends
+          // Day 64: Final Fantasy VII
           {
-            url: "https://soundcloud.com/official_lol/warriors-feat-edda-hayes-official-imagine-dragons-cover-from-league-of-legends-trailer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            aiswer: "League of Legends",
-            song: "Warriors"
+            url: "https://soundcloud.com/italiamipiace/ff7-battle-theme-remake?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            aiswer: "Final Fantasy VII",
+            song: "Battle Theme"
           },
           // Day 60: Killzone
           {
