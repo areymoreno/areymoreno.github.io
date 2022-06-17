@@ -9824,9 +9824,9 @@ var app = (function () {
           },
           // Day 63: Killzone
           {
-            url: "",
-            aiswer: "Answer",
-            song: "Answer Theme"
+            url: "https://soundcloud.com/official_lol/warriors-feat-edda-hayes-official-imagine-dragons-cover-from-league-of-legends-trailer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            aiswer: "League of Legends",
+            song: "Warriors"
           },
           // Day 64: League of Legends
           {
