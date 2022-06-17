@@ -9104,6 +9104,10 @@ var app = (function () {
       "Blasphemous",
       "Bloodborne",
       "Bully",
+      "Call of Duty Modern Warfare",
+      "Call of Duty Modern Warfare 2",
+      "Call of Duty Modern Warfare 3",
+      "Call of Duty Modern Warfare (2019)",
       "Celeste",
       "Cuphead",
       "Crash Bandicoot",
@@ -9127,6 +9131,7 @@ var app = (function () {
       "Death Stranding",
       "Destiny",
       "Destiny II",
+      "Deus Ex Manking Divided",
       "Devil May Cry 5",
       "Disco Elysium",
       "Doom 64",
@@ -9136,6 +9141,7 @@ var app = (function () {
       "Dragon Age",
       "Dragon Age 2",
       "Dragon Age Inquisition",
+      "Deux Ex Mankind Divided",
       "EarthBound",
       "Elden Ring",
       "F-Zero GX",
@@ -9302,6 +9308,7 @@ var app = (function () {
       "Super Smash Bros. Brawl",
       "Team Fortress 2",
       "Teamfight Tactics",
+      "Terraria",
       "The Division",
       "The Division II",
       "The Last of Us",
@@ -9350,7 +9357,7 @@ var app = (function () {
           // Day E: Example
           {
               url: "",
-              aiswer: "Answer",
+              answer: "Answer",
               song: "Answer Theme"
           },
           */
@@ -9358,43 +9365,43 @@ var app = (function () {
           // Day -7: Example
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
           // Day -5: Example
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
           // Day -4: Example
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
           // Day -3: Example
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
           // Day -2: Example
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
           // Day -1: Example
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
           // Day 0: Example
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
 
@@ -9810,172 +9817,244 @@ var app = (function () {
             answer: "Killzone",
             song: "Helghast March"
           },
-          // Day 61: Killzone
+          // Day 61: -
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 62: Killzone
+          // Day 62: -
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 63: League of Legends
-          {
-            url: "https://soundcloud.com/official_lol/warriors-feat-edda-hayes-official-imagine-dragons-cover-from-league-of-legends-trailer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            aiswer: "League of Legends",
-            song: "Warriors - feat. Edda Hayes - 2WEI (Official Imagine Dragons cover from League of Legends trailer)"
-          },
-          // Day 64: Final Fantasy VII
+          // Day 63: Final Fantasy VII
           {
             url: "https://soundcloud.com/italiamipiace/ff7-battle-theme-remake?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            aiswer: "Final Fantasy VII",
+            answer: "Final Fantasy VII",
             song: "Battle Theme"
           },
-          // Day 60: Killzone
+          // Day 64: League of Legends
+          {
+            url: "https://soundcloud.com/official_lol/warriors-feat-edda-hayes-official-imagine-dragons-cover-from-league-of-legends-trailer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "League of Legends",
+            song: "Warriors - feat. Edda Hayes - 2WEI (Official Imagine Dragons cover from League of Legends trailer)"
+          },
+          // Day 65: Deux Ex Mankind Divided
+          {
+            url: "https://soundcloud.com/sonicmayhem/sets/deus-ex-mankind-divided?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Deux Ex Mankind Divided",
+            song: "Main Theme"
+          },
+          // Day 66: Terraria
+          {
+            url: "https://soundcloud.com/terraria-official/overworld-day?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Terraria",
+            song: "Overworld Day"
+          },
+          // Day 67: Remember Me
+          {
+            url: "https://soundcloud.com/user-731939863/remember-me-fragments-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Remember Me",
+            song: "Fragments"
+          },
+          // Day 68: Call of Duty Modern Warfare 2
+          {
+            url: "https://soundcloud.com/shinji-haruki/call-of-duty-modern-warfare-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Call of Duty Modern Warfare 2",
+            song: "Hotel Whisky"
+          },
+          // Day 69: Dead Space
+          {
+            url: "https://soundcloud.com/user-995276368/sets/dead-space-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dead Space",
+            song: "Escape from the Planet of the Red"
+          },
+          // Day 70: Darksiders 2
+          {
+            url: "https://soundcloud.com/unreleased-game-music/jesper-kyd-death-the-executioner-darksiders-2-unreleased-additional-soundtrack?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Darksiders 2",
+            song: "Death the Executioner (Darksiders 2 Unreleased Additional Soundtrack)"
+          },
+          // Day 71: Street Fighter
+          {
+            url: "https://soundcloud.com/heika-gerard-gamer/street-fighter-alpha-3-ost-the-road-theme-of-ryu?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Street Fighter",
+            song: "Theme of Ryu"
+          },
+          // Day 72: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 73: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 74: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 75: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 76: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 77: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 78: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 79: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 80: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 81: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 82: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 83: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 84: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 85: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 86: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 87: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 88: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 89: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 90: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 91: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 92: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 93: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 94: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
             song: "Answer Theme"
           },
-          // Day 60: Killzone
+          // Day 95: Killzone
           {
             url: "",
-            aiswer: "Answer",
+            answer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 96: Killzone
+          {
+            url: "",
+            answer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 97: Killzone
+          {
+            url: "",
+            answer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 98: Killzone
+          {
+            url: "",
+            answer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 99: Killzone
+          {
+            url: "",
+            answer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 100: Killzone
+          {
+            url: "",
+            answer: "Answer",
             song: "Answer Theme"
           }
           
