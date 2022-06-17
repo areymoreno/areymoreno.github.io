@@ -9810,6 +9810,174 @@ var app = (function () {
             answer: "Killzone",
             song: "Helghast March"
           },
+          // Day 61: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 62: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 63: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 64: League of Legends
+          {
+            url: "https://soundcloud.com/official_lol/warriors-feat-edda-hayes-official-imagine-dragons-cover-from-league-of-legends-trailer?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            aiswer: "League of Legends",
+            song: "Warriors"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          },
+          // Day 60: Killzone
+          {
+            url: "",
+            aiswer: "Answer",
+            song: "Answer Theme"
+          }
           
         ],
         Pn
