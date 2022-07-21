@@ -9,15 +9,15 @@
         <div class="container">
           <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
             <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+              <i class="bi bi-bookmark-star-fill"></i>
               <li><h2>Lanzamientos de videojuegos</h2></li>
             </ul>
     
             <div class="text-end">
-              <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-                <li style="margin:10px 5px 10px 5px;"><a href="https://github.com/areymoreno" target="_blank"></a><i class="bi bi-github"></i></a></li>
-                <li style="margin:10px 5px 10px 5px;"><a href="https://www.behance.net/areymoreno" target="_blank"></a><i class="bi bi-behance"></i></a></li>
-                <li style="margin:10px 5px 10px 5px;"><a href="https://www.linkedin.com/in/albertoreymoreno/" target="_blank"></a><i class="bi bi-linkedin"></i></a></li>
-              </ul>
+                <a style="margin:10px 5px 10px 5px; color: white;" href="notes.html"><i class="bi bi-bookmark-plus-fill"></i></a>
+                <a style="margin:10px 5px 10px 5px; color: white;" href="https://github.com/areymoreno" target="_blank"><i class="bi bi-github"></i></a>
+                <a style="margin:10px 5px 10px 5px; color: white;" href="https://www.behance.net/areymoreno" target="_blank"><i class="bi bi-behance"></i></a>
+                <a style="margin:10px 5px 10px 5px; color: white;" href="https://www.linkedin.com/in/albertoreymoreno/" target="_blank"><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
         </div>
@@ -32,9 +32,12 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <a href="#2022"><button type="button" class="btn btn-dark">2022</button></a>
-            <a href="#2023"><button type="button" class="btn btn-dark">2023</button></a>
-            <a href="#TBA"><button type="button" class="btn btn-dark">TBA</button></a>
+
+            <div class="btn-group" role="group">
+              <a href="#2022" class="btn btn-dark">2022</a>
+              <a href="#2023" class="btn btn-dark">2023</a>
+              <a href="#TBA" class="btn btn-dark">TBA</a>
+            </div>
           </div>
 
           <div class="col">
@@ -51,11 +54,32 @@
     </section>
 
     <section id="2022" class="container" style="margin-top: 15px;">
-      <h2>2022</h2>
+      <div class="row">
+        <div class="col">
+          <h2>2022</h2>
+        </div>
+        <div class="col text-end">
+          <div class="btn-group" role="group">
+            <!-- <a href="#2022Ene" class="btn btn-dark disabled">Enero</a>
+            <a href="#2022Feb" class="btn btn-dark disabled">Febrero</a>
+            <a href="#2022Mar" class="btn btn-dark disabled">Marzo</a>
+            <a href="#2022Abr" class="btn btn-dark disabled">Abril</a>
+            <a href="#2022May" class="btn btn-dark disabled">Mayo</a>
+            <a href="#2022Jun" class="btn btn-dark disabled">Junio</a>
+            <a href="#2022Jul" class="btn btn-dark disabled">Julio</a> -->
+            <a href="#2022Ago" class="btn btn-dark">Agosto</a>
+            <a href="#2022Sep" class="btn btn-dark">Septiembre</a>
+            <a href="#2022Oct" class="btn btn-dark">Octubre</a>
+            <a href="#2022Nov" class="btn btn-dark">Noviembre</a>
+            <a href="#2022Dic" class="btn btn-dark">Diciembre</a>
+          </div>
+        </div>
+      </div>
+      
       <br />
 
       <div id="month">
-        <h4 style="padding: 10px;">Agosto</h4>
+        <h4 id="2022Ago" style="padding: 10px;">Agosto</h4>
         
         <ul class="list-group">
           <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -64,7 +88,7 @@
               <span class="badge text-bg-primary">PlayStation</span>
               <span class="badge text-bg-success">Xbox</span>
               <span class="badge text-bg-danger">Switch</span>
-              <span class="badge text-bg-secondary">PC</span>
+              <span class="badge text-bg-secondary">PC</span>            
             </div>
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -137,7 +161,7 @@
       </div>
 
       <div id="month">
-        <h4 style="padding: 10px;">Septiembre</h4>
+        <h4 id="2022Sep" style="padding: 10px;">Septiembre</h4>
         
         <ul class="list-group">
           <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -274,7 +298,7 @@
       </div>
 
       <div id="month">
-        <h4 style="padding: 10px;">Octubre</h4>
+        <h4 id="2022Oct" style="padding: 10px;">Octubre</h4>
         
         <ul class="list-group">
           <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -404,7 +428,7 @@
       </div>
 
       <div id="month">
-        <h4 style="padding: 10px;">Noviembre</h4>
+        <h4 id="2022Nov" style="padding: 10px;">Noviembre</h4>
         
         <ul class="list-group">
           <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -458,7 +482,7 @@
       </div>
 
       <div id="month">
-        <h4 style="padding: 10px;">Diciembre</h4>
+        <h4 id="2022Dic" style="padding: 10px;">Diciembre</h4>
         
         <ul class="list-group">
           <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -490,7 +514,28 @@
     </section>
 
     <section id="2023" class="container" style="margin-top: 15px;">
-      <h2>2023</h2>
+      <div class="row">
+        <div class="col">
+          <h2>2023</h2>
+        </div>
+        <div class="col text-end">
+          <div class="btn-group" role="group">
+            <a href="#2023Ene" class="btn btn-dark">Enero</a>
+            <a href="#2023Feb" class="btn btn-dark">Febrero</a>
+            <a href="#2023Mar" class="btn btn-dark">Marzo</a>
+            <a href="#2023Abr" class="btn btn-dark">Abril</a>
+            <a href="#2023May" class="btn btn-dark">Mayo</a>
+            <a href="#2023Jun" class="btn btn-dark">Junio</a>
+            <a href="#2023Jul" class="btn btn-dark">Julio</a>
+            <a href="#2023Ago" class="btn btn-dark">Agosto</a>
+            <a href="#2023Sep" class="btn btn-dark">Septiembre</a>
+            <a href="#2023Oct" class="btn btn-dark">Octubre</a>
+            <a href="#2023Nov" class="btn btn-dark">Noviembre</a>
+            <a href="#2023Dic" class="btn btn-dark">Diciembre</a>
+          </div>
+        </div>
+      </div>
+
       <br />
 
       <div id="month">
@@ -562,17 +607,12 @@
       <h2>Sin fecha anunciada</h2>
       <br />
 
-      <div id="month">
-        <h4 style="padding: 10px;">Sin fecha</h4>
-        
+      <div id="month">   
         <ul class="list-group">
           <li class="list-group-item d-flex justify-content-between align-items-center">
             <div>Sin fecha - <b>Advance Wars 1+2: Re-Boot Camp</b></div>
             <div class="text-end">
-              <span class="badge text-bg-primary">PlayStation</span>
-              <span class="badge text-bg-success">Xbox</span>
               <span class="badge text-bg-danger">Switch</span>
-              <span class="badge text-bg-secondary">PC</span>
             </div>
           </li>
         </ul>
